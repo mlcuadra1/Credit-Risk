@@ -9,3 +9,11 @@ data/installments_payments.csv
 data/POS_CASH_balance.csv
 data/previous_application.csv
 data/sample_submission.csv
+data/Data 1 - application_train.csv
+data/Data 2 - application_test.csv
+data/Data 3 - bureau_balance.csv
+data/Data 4 - bureau.csv
+data/Data 5 - credit_card_balance.csv
+data/Data 6 - installments_payments.csv
+data/Data 7 - POS_CASH_balance.csv
+data/Data 8 - previous_application.csv
