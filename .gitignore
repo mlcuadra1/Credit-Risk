@@ -17,3 +17,4 @@ data/Data 5 - credit_card_balance.csv
 data/Data 6 - installments_payments.csv
 data/Data 7 - POS_CASH_balance.csv
 data/Data 8 - previous_application.csv
+data/Data 1.1 - application_train_cleaned.csv
